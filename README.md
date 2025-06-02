@@ -1,2 +1,2 @@
 # TPP
-## Predictive modeling project on tattoo using machine learning
+Predictive modeling project on tattoo using machine learning
